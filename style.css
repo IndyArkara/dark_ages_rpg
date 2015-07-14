@@ -1,0 +1,28 @@
+@import url(http://fonts.googleapis.com/css?family=Lora|UnifrakturCook:700|Unica+One);
+h1{
+  font-family: 'UnifrakturCook', cursive;
+  font-size: 70px;
+}
+h2{
+  font-family: 'Lora', serif;
+    font-size: 50px;
+}
+
+p {
+  font-family: 'Unica One', cursive;
+  font-size:20px;
+}
+body{
+    text-align:center;
+   background-image: url("http://img3.wikia.nocookie.net/__cb20150116010542/conworld/images/f/f1/Dark-medieval-city-fantasy-hd-wallpaper-1920x1080-2069.jpg");
+  color: white;
+}
+span{
+ font-family: 'Unica One', cursive;
+  font-size:20px; 
+}
+a{
+ font-family: 'Lora', serif;
+    font-size: 20px; 
+  color: white;
+}
